@@ -15,7 +15,7 @@ In distributed clustered systems, efficient network resource resolution is vital
 * Algorithm Development
   Designed and optimized hsot table lookup process to achieve high DNS resolution.
 * Performance Comparison
-  Conducted bench marking between NTP Sync time and Chrony sync time.
+  Conducted bench marking between DataBase DNS lookup time and Hsot Table lookup time.
 * Reserach Leadership
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 

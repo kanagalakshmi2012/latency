@@ -23,8 +23,8 @@ In distributed clustered systems, efficient network resource resolution is vital
 
 * **Efficient DNS Resolution Mechanisms :**\
     DNS resolution was significantly improved, resulting in reduced query latency and faster domain name lookups. These enhancements contributed to more responsive and reliable performance across distributed environments.
-* **Write availability Improvement:** \
-    need to add here
+* **Enhanced Query Performance:** \
+    Overall query latency was significantly reduced as a result of optimized DNS handling.Improved resolution pathways also boosted throughput, enabling faster and more reliable service discovery across distributed systems.need to add here
 * **Academic Recognition :** \
     need to add here
 * **Educational Impact:** \

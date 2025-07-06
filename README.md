@@ -28,20 +28,20 @@ In distributed clustered systems, efficient network resource resolution is vital
 * **Academic Recognition :** \
     Referenced across academic works and technical analyses related to DNS resolution and query performance enhancements.
 * **Educational Impact:** \
-    Findings incorporated into educational programs and research efforts, supporting continued academic dialogue on container orchestration and cloud system efficiency.\
+    Findings incorporated into educational programs and research efforts, supporting continued academic dialogue on container orchestration and cloud system efficiency.
 
 **Experimental Results (Summary)**:
 
-  | Nodes | VR Replication Time (ms) | ZAB Replication Time (ms) | Improvement (%) |
-  |-------|--------------------------| --------------------------| ----------------|
-  | 3     | 6.0                      | 5.2                       | 13.3            |
-  | 5     | 8.1                      | 6.7                       | 17.3            |
-  | 7     | 10.5                     | 8.4                       | 20.0            |
-  | 9     | 13.0                     | 10.3                      | 20.8            |
-  | 11    | 15.6                     | 12.2                      | 21.8            |
+  | Nodes | Database DNS Lookup Time - Cached (ms) | Host Table Lookup Time (ms) | Improvement (%) |
+  |-------|----------------------------------------| ----------------------------| ----------------|
+  | 3     | 0.8                                    | 0.1                         | 87.5            |
+  | 5     | 0.8                                    | 0.15                        | 81.3            |
+  | 7     | 0.9                                    | 0.2                         | 77.8            |
+  | 9     | 0.9                                    | 0.25                        | 72.2            |
+  | 11    | 0.9                                    | 0.3                         | 66.7            |
 
 **Citation** \
-OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
+OPTIMIZING DNS LOOKUP LATENCY FOR ENHANCED PERFORMANCE IN CLUSTERED SYSTEMS. \
 Kanagalakshmi Murugan \
 International Journal on Science and Technology \
 E-ISSN-2229-7677 \

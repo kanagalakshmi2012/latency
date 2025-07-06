@@ -21,7 +21,7 @@ In distributed clustered systems, efficient network resource resolution is vital
 
 **Relevance & Real-World Impact**
 
-* **Kubernetes infrastructure optimization:**\
+* **Efficient DNS Resolution Mechanisms :**\
     Enhances distributed key-value store performance by improving the write availability in distributed systems.
 * **Write availability Improvement:** \
     need to add here

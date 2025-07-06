@@ -22,7 +22,7 @@ In distributed clustered systems, efficient network resource resolution is vital
 **Relevance & Real-World Impact**
 
 * **Efficient DNS Resolution Mechanisms :**\
-    Enhances distributed key-value store performance by improving the write availability in distributed systems.
+    DNS resolution was significantly improved, resulting in reduced query latency and faster domain name lookups. These enhancements contributed to more responsive and reliable performance across distributed environments.
 * **Write availability Improvement:** \
     need to add here
 * **Academic Recognition :** \

@@ -26,9 +26,9 @@ In distributed clustered systems, efficient network resource resolution is vital
 * **Enhanced Query Performance:** \
     Overall query latency was significantly reduced as a result of optimized DNS handling.Improved resolution pathways also boosted throughput, enabling faster and more reliable service discovery across distributed systems.need to add here
 * **Academic Recognition :** \
-    need to add here
+    Referenced across academic works and technical analyses related to DNS resolution and query performance enhancements.
 * **Educational Impact:** \
-    need to add here \
+    Findings incorporated into educational programs and research efforts, supporting continued academic dialogue on container orchestration and cloud system efficiency.\
 
 **Experimental Results (Summary)**:
 
